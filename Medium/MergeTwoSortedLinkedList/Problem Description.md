@@ -2,12 +2,13 @@
 
 Given pointers to the heads of two sorted linked lists, merge them into a single, sorted linked list. Either head pointer may be null meaning that the corresponding list is empty.
 
-### Exmaple
+### Example
 
-*head 1* refers to 1 -> 3 -> 7 -> null
- *head 2* refers to 1-> 2 -> null 
+* *head 1* refers to 1 -> 3 -> 7 -> null
 
-The new list is 1-> 1 -> 2 -> 3 -> 7
+* *head 2* refers to 1-> 2 -> null 
+
+- The new list is 1-> 1 -> 2 -> 3 -> 7
 
 ## Input Format
 
